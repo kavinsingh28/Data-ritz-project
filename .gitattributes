@@ -2,3 +2,4 @@
 Assignment3 filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 C:/Users/kavin/OneDrive/Desktop/Data[[:space:]]ritz[[:space:]]ML[[:space:]]work/Myproject/Data-ritz-project/Datasets/HISTORICAL_DATA/HISTORICAL_DATA1 filter=lfs diff=lfs merge=lfs -text
+Datasets filter=lfs diff=lfs merge=lfs -text
